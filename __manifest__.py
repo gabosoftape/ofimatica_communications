@@ -16,6 +16,7 @@
     "license": "LGPL-3",
     "data": [
         'views/menus.xml',
+        'security/security.xml',
     ],
     'application': False,
     "images": ['images/main_screenshot.png'],
