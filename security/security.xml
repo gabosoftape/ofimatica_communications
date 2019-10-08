@@ -17,7 +17,6 @@
         <field name="name">Propietario</field>
         <field name="category_id" ref="ofimatica_communications.category_ofimatica_communications"/>
     </record>
-
     <!--Group for property lessee-->
     <record id="group_communications_lessee" model="res.groups">
         <field name="name">Arrendatario</field>
